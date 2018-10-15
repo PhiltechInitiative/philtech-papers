@@ -1,3 +1,6 @@
+Philtech Manifesto Draft v0.6 (c) by Philtech Initiative, made available under a [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/).
+
+-----
 # Philtech
 _Technologies for tomorrow. Together_
 
@@ -81,6 +84,3 @@ We can usher in a future where **financial success is inseparable from social im
 Take your first step, see how *#philtech* resonates with your activities. You can see how closely your project, employer, or any public organization conforms to *philtech criteria* — apply _here_ to get a free detailed report and actionable recommendations. Join the _Philtech Community_ to share your ideas and participate in the conversation. Let’s make a real difference in the face of today’s challenges.
 
 **Sign the Philtech Manifesto / Share / Explore philtech organizations / Join the #philtech community**
-
------
-(c) by Philtech Initiative. Philtech Manifesto is made available under a [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/).
